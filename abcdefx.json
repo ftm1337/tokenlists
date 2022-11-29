@@ -1,8 +1,8 @@
 {
-  "name": "VAX List",
-  "logoURI": "https://raw.githubusercontent.com/ftm1337/15-alpha-1/main/public/favicon.png",
-  "keywords": ["VAX", "Guru Network", "MultiVAC", "MTV", "DEX"],
-  "timestamp": "2022-05-29T00:00:00+00:00",
+  "name": "ABcDEFX Assets",
+  "logoURI": "https://ftm.guru/icons/m2.png",
+  "keywords": ["ABCDEFX", "Guru Network", "Forex", "DEX"],
+  "timestamp": "2022-11-29T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -75,7 +75,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
-    },
+    }
   ],
   "version": {
     "major": 0,
