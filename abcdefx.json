@@ -7,7 +7,7 @@
     {
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
       "chainId": 250,
-      "name": "USD Coin - Multichain.org Bridge",
+      "name": "USD Coin / Multichain.org Bridge",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
@@ -15,7 +15,7 @@
     {
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "chainId": 250,
-      "name": "Dai Stablecoin - Multichain.org Bridge",
+      "name": "Dai Stablecoin / Multichain.org Bridge",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/dai.svg"
@@ -23,7 +23,7 @@
     {
       "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
       "chainId": 250,
-      "name": "Frapped USDT - Multichain.org Bridge",
+      "name": "Frapped USDT / Multichain.org Bridge",
       "symbol": "fUSDT",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
@@ -31,13 +31,13 @@
     {
       "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
       "chainId": 250,
-      "name": "Axelar Wrapped USDC - Axelar Bridge",
+      "name": "Axelar Wrapped USDC / Axelar Bridge",
       "symbol": "axlUSDC",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
     },
     {
-      "address": "0xadEE5159f4f82a35B9068A6c810bdc6c599Ba6a8",
+      "address": "0x86e4D91800c03e803d4c8FA3293d1C7d612A7300",
       "chainId": 3000,
       "name": "Lockless Staked Wrapped Echelon",
       "symbol": "SWECH",
@@ -55,7 +55,7 @@
     {
       "address": "0xEa1199d50Ee09fA8062fd9dA3D55C6F90C1bABd2",
       "chainId": 62621,
-      "name": "USD Coin - RelayChain Bridge",
+      "name": "USD Coin / RelayChain Bridge",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
@@ -63,7 +63,7 @@
     {
       "address": "0xCd65eb7630e5A2C46E1b99c0F3a45611be4960B2",
       "chainId": 62621,
-      "name": "BUSD Token - RelayChain Bridge",
+      "name": "BUSD Token / RelayChain Bridge",
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/busd.svg"
@@ -71,7 +71,7 @@
     {
       "address": "0x2f9c74d3C42023C533437c9EE743D4a6329e78Df",
       "chainId": 62621,
-      "name": "Tether USD - RelayChain Bridge",
+      "name": "Tether USD / RelayChain Bridge",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
@@ -80,6 +80,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
