@@ -7,7 +7,7 @@
     {
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
       "chainId": 250,
-      "name": "USD Coin (Multichain.org Bridge)",
+      "name": "USD Coin - Multichain.org Bridge",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
