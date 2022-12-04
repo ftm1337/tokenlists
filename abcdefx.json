@@ -75,11 +75,59 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
+    },
+    {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "chainId": 43114,
+      "name": "Wrapped ACAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/avax.svg"
+    },
+    {
+      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+      "chainId": 321,
+      "name": "Wrapped KCS",
+      "symbol": "WKCS",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/kcs.svg"
+    },
+    {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "chainId": 137,
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/matic.svg"
+    },
+    {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "chainId": 25,
+      "name": "Wrapped CRO",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/cro.svg"
+    },
+    {
+      "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+      "chainId": 100,
+      "name": "Wrapped XDAI",
+      "symbol": "WXDAI",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/dai.svg"
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/bnb.svg"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
