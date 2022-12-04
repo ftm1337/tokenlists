@@ -93,6 +93,70 @@
       "logoURI": "https://ftm.guru/icons/kcs.svg"
     },
     {
+      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+      "chainId": 321,
+      "name": "KCC-Peg Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/usdt.svg"
+    },
+    {
+      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+      "chainId": 321,
+      "name": "KCC-Peg USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/usdc.svg"
+    },
+    {
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "chainId": 321,
+      "name": "DAI Coin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/dai.svg"
+    },
+    {
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "chainId": 321,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ftm.guru/icons/btc.svg"
+    },
+    {
+      "address": "0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+      "chainId": 321,
+      "name": "KCC-Peg BTCK Token",
+      "symbol": "BTCK",
+      "decimals": 18,
+      "logoURI": "btc"
+    },
+    {
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 321,
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/busd.svg"
+    },
+    {
+      "address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
+      "chainId": 321,
+      "name": "sKCS",
+      "symbol": "sKCS",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/kcs.svg"
+    },
+    {
+      "address": "0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7",
+      "chainId": 321,
+      "name": "Kucino Casino",
+      "symbol": "KUCINO",
+      "decimals": 9,
+      "logoURI": "https://ftm.guru/icons/kucino.svg"
+    },
+    {
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "name": "Wrapped Matic",
@@ -127,7 +191,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }
