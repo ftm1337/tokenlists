@@ -130,7 +130,7 @@
       "name": "KCC-Peg BTCK Token",
       "symbol": "BTCK",
       "decimals": 18,
-      "logoURI": "btc"
+      "logoURI": "https://ftm.guru/icons/btc.svg"
     },
     {
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
