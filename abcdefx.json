@@ -9,7 +9,7 @@
       "chainId": 250,
       "name": "USD Coin / Multichain.org Bridge",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
     },
     {
@@ -25,7 +25,7 @@
       "chainId": 250,
       "name": "Frapped USDT / Multichain.org Bridge",
       "symbol": "fUSDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
     },
     {
@@ -33,7 +33,7 @@
       "chainId": 250,
       "name": "Axelar Wrapped USDC / Axelar Bridge",
       "symbol": "axlUSDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
     },
     {
@@ -191,7 +191,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
