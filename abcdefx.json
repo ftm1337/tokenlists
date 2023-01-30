@@ -35,6 +35,14 @@
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdc.svg"
+    },,
+    {
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "chainId": 250,
+      "name": "Fantom USD",
+      "symbol": "FUSD",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/fusd.svg"
     },
     {
       "address": "0x86e4D91800c03e803d4c8FA3293d1C7d612A7300",
