@@ -251,7 +251,7 @@
       "symbol": "axlUSDT",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
-    },
+    }
   ],
   "version": {
     "major": 0,
