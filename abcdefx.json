@@ -251,11 +251,19 @@
       "symbol": "axlUSDT",
       "decimals": 6,
       "logoURI": "https://ftm.guru/icons/usdt.svg"
+    },
+    {
+      "address": "0x9d9682577CA889c882412056669bd936894663fd",
+      "chainId": 2222,
+      "name": "Lockless Staked-Wrapped KAVA",
+      "symbol": "SWKAVA",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/swkava.svg"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
