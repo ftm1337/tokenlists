@@ -1,0 +1,45 @@
+{
+  "name": "Thick DEX Tokenlist",
+  "logoURI": "https://ftm.guru/icons/thick.png",
+  "keywords": ["Guru Network", "DeFi", "Eliteness", "ELITE", "Thick", "DEX"],
+  "timestamp": "2024-07-12T13:37:00+13:37",
+  "tokens": [
+    {
+      "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+      "chainId": 250,
+      "name": "Axelar Bridged USDC",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x1b6382dbdea11d97f24495c9a90b7c88469134a4.png"
+    },
+    {
+      "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
+      "chainId": 250,
+      "name": "LayerZero Bridged USDC",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x28a92dde19d9989f39a49905d7c9c2fac7799bdf.png"
+    },
+    {
+      "address": "0x2f733095b80a04b38b0d10cc884524a3d09b836a",
+      "chainId": 250,
+      "name": "Wormhole Bridged USDC",
+      "symbol": "wormUSDC.e",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x2f733095b80a04b38b0d10cc884524a3d09b836a.png"
+    },
+    {
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 250,
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
