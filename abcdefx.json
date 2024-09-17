@@ -259,11 +259,27 @@
       "symbol": "SWKAVA",
       "decimals": 18,
       "logoURI": "https://ftm.guru/icons/swkava.svg"
+    },
+    {
+      "address": "0xED1F80d2d5341b8e78164b50B3Aa9Cf4825398d5",
+      "chainId": 64165,
+      "name": "Test Dollars",
+      "symbol": "testDOLLAR",
+      "decimals": 6,
+      "logoURI": "https://ftm.guru/icons/usdc.svg"
+    },
+    {
+      "address": "0x591E027153ED4e536275984e1b7573367e11dac4",
+      "chainId": 64165,
+      "name": "Wrapped Testnet Sonic",
+      "symbol": "WTS",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/sonic.png"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
